@@ -22,54 +22,39 @@ public class Exercise06 {
         {
             switch (hour) {
                 case 21:
-                    System.out.println("It's night");
-                    break;
+
                 case 22:
-                    System.out.println("It's night");
-                    break;
+
                 case 23:
-                    System.out.println("It's night");
-                    break;
+
                 case 0:
-                    System.out.println("It's night");
-                    break;
+
                 case 1:
-                    System.out.println("It's night");
-                    break;
+
                 case 2:
-                    System.out.println("It's night");
-                    break;
+
                 case 3:
-                    System.out.println("It's night");
-                    break;
+
                 case 4:
-                    System.out.println("It's night");
-                    break;
+
                 case 5:
-                    System.out.println("It's night");
-                    break;
+
                 case 6: {
                     System.out.println("It's night");
                     break;
                 }
                 case 7:
-                    System.out.println("It's morning");
-                    break;
+
                 case 8:
-                    System.out.println("It's morning");
-                    break;
+
                 case 9:
-                    System.out.println("It's morning");
-                    break;
+
                 case 10:
-                    System.out.println("It's morning");
-                    break;
+
                 case 11:
-                    System.out.println("It's morning");
-                    break;
+
                 case 12:
-                    System.out.println("It's morning");
-                    break;
+
                 case 13: {
                     System.out.println("It's morning");
                     break;
@@ -77,23 +62,17 @@ public class Exercise06 {
 
                 }
                 case 14:
-                    System.out.println("It's afternoon");
-                    break;
+
                 case 15:
-                    System.out.println("It's afternoon");
-                    break;
+
                 case 16:
-                    System.out.println("It's afternoon");
-                    break;
+
                 case 17:
-                    System.out.println("It's afternoon");
-                    break;
+
                 case 18:
-                    System.out.println("It's afternoon");
-                    break;
+
                 case 19:
-                    System.out.println("It's afternoon");
-                    break;
+
                 case 20: {
                     System.out.println("It's afternoon");
                     break;
